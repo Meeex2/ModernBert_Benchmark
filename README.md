@@ -15,7 +15,7 @@ This project explores the capabilities of ModernBERT and the former bert model b
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd Benchmark-for-ModernBert
+   cd ModernBert_Benchmark
    ```
 
 2. Install dependencies:
