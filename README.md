@@ -14,7 +14,7 @@ This project explores the capabilities of ModernBERT and the former bert model b
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Meeex2/ModernBert_Benchmark.git
    cd ModernBert_Benchmark
    ```
 
